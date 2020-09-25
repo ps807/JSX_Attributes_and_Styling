@@ -1,0 +1,15 @@
+.heading {
+  color: red;
+}
+
+ul {
+  color: blue;
+  font-family: "Calibri";
+}
+
+.food-img {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
